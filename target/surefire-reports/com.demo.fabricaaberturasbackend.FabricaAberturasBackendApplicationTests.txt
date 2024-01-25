@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.demo.fabricaaberturasbackend.FabricaAberturasBackendApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.302 s - in com.demo.fabricaaberturasbackend.FabricaAberturasBackendApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.904 s - in com.demo.fabricaaberturasbackend.FabricaAberturasBackendApplicationTests
